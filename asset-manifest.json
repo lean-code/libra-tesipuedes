@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/libra-tesipuedes/static/css/main.26cd5e2a.css",
+    "main.js": "/libra-tesipuedes/static/js/main.8b22033c.js",
+    "static/media/3.webp": "/libra-tesipuedes/static/media/3.7917f2e221984cccd964.webp",
+    "static/media/9.webp": "/libra-tesipuedes/static/media/9.9be76dc6493d2de4d486.webp",
+    "static/media/7.webp": "/libra-tesipuedes/static/media/7.b4fc1a7a18efed4e5472.webp",
+    "static/media/10.webp": "/libra-tesipuedes/static/media/10.6c4f89b31a3c9f27a43c.webp",
+    "static/media/4.webp": "/libra-tesipuedes/static/media/4.e465e7e96d448fbcecdc.webp",
+    "static/media/5.webp": "/libra-tesipuedes/static/media/5.67b1f9027149d3368e42.webp",
+    "static/media/11.webp": "/libra-tesipuedes/static/media/11.f998c3e25cd9abe2dbaf.webp",
+    "static/media/1.webp": "/libra-tesipuedes/static/media/1.b8f459217c70aeba535c.webp",
+    "static/media/2.webp": "/libra-tesipuedes/static/media/2.7cc4fefca7c4f21562e2.webp",
+    "static/media/8.webp": "/libra-tesipuedes/static/media/8.10c58da89935700d8a31.webp",
+    "static/media/6.webp": "/libra-tesipuedes/static/media/6.32a0f13db4f84affe8f9.webp",
+    "index.html": "/libra-tesipuedes/index.html",
+    "main.26cd5e2a.css.map": "/libra-tesipuedes/static/css/main.26cd5e2a.css.map",
+    "main.8b22033c.js.map": "/libra-tesipuedes/static/js/main.8b22033c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cd5e2a.css",
+    "static/js/main.8b22033c.js"
+  ]
+}
